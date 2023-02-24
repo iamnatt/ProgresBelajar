@@ -15,3 +15,8 @@ Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 **21 Februari 2023**
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
 * Memahami konsep dasar pemrograman.
+
+**22 Februari 2023**
+Memulai Dasar Pemrograman untuk Menjadi Pengembang Software.
+* Modifikasi apliaksi perangkat lunak.
+* Dokumentasi pemrograman.
